@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="69838" started-at="2020-09-06T07:29:30Z" finished-at="2020-09-06T07:30:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="69838" started-at="2020-09-06T07:29:30Z" finished-at="2020-09-06T07:30:39Z">
+      <class name="jabatalks.CJabaTalks">
+        <test-method status="PASS" signature="setup()[pri:0, instance:jabatalks.CJabaTalks@675d3402]" name="setup" is-config="true" duration-ms="54671" started-at="2020-09-06T07:29:30Z" finished-at="2020-09-06T07:30:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="accessdropdown()[pri:0, instance:jabatalks.CJabaTalks@675d3402]" name="accessdropdown" duration-ms="1858" started-at="2020-09-06T07:30:25Z" finished-at="2020-09-06T07:30:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accessdropdown -->
+        <test-method status="PASS" signature="verifyEmail()[pri:1, instance:jabatalks.CJabaTalks@675d3402]" name="verifyEmail" duration-ms="10044" started-at="2020-09-06T07:30:26Z" finished-at="2020-09-06T07:30:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmail -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:jabatalks.CJabaTalks@675d3402]" name="closeBrowser" is-config="true" duration-ms="2910" started-at="2020-09-06T07:30:36Z" finished-at="2020-09-06T07:30:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- jabatalks.CJabaTalks -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
